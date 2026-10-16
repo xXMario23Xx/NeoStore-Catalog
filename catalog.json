@@ -11,6 +11,7 @@
 	  "icon": "文",
 	  "repo_url": "https://github.com/xXMario23Xx/NeoLeet",
 	  "release_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest"
+	  "apk_url": "https://github.com/xXMario23Xx/NeoLeet/releases/download/latest/NeoLeet.apk"
 	},
 	{
 	  "id": "neomystic",
@@ -20,6 +21,7 @@
 	  "icon": "∞",
 	  "repo_url": "https://github.com/xXMario23Xx/NeoMystic",
 	  "release_url": "https://github.com/xXMario23Xx/NeoMystic/releases/latest"
+	  "apk_url": "https://github.com/xXMario23Xx/NeoMystic/releases/download/latest/NeoMystic.apk"
 	}
   ]
 }
