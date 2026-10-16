@@ -3,25 +3,25 @@
   "schema_version": 1,
   "store_name": "NeoStore",
   "apps": [
-	{
-	  "id": "neoleet",
-	  "name": "NeoLeet",
-	  "description": "Traductor y herramientas de texto.",
-	  "version": "1.0.5",
-	  "icon": "文",
-	  "repo_url": "https://github.com/xXMario23Xx/NeoLeet",
-	  "release_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest"
-	  "apk_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest/download/NeoLeet.apk"
-	},
-	{
-	  "id": "neomystic",
-	  "name": "NeoMystic",
-	  "description": "Aplicacion de numerología offline.",
-	  "version": "1.0.0",
-	  "icon": "∞",
-	  "repo_url": "https://github.com/xXMario23Xx/NeoMystic",
-	  "release_url": "https://github.com/xXMario23Xx/NeoMystic/releases/latest"
-	  "apk_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest/download/NeoMystic.apk"
-	}
+    {
+      "id": "neoleet",
+      "name": "NeoLeet",
+      "description": "Traductor y herramientas de texto.",
+      "version": "1.0.5",
+      "icon": "文",
+      "repo_url": "https://github.com/xXMario23Xx/NeoLeet",
+      "release_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest",
+      "apk_url": "https://github.com/xXMario23Xx/NeoLeet/releases/latest/download/NeoLeet.apk"
+    },
+    {
+      "id": "neomystic",
+      "name": "NeoMystic",
+      "description": "Aplicación de numerología offline.",
+      "version": "1.0.0",
+      "icon": "∞",
+      "repo_url": "https://github.com/xXMario23Xx/NeoMystic",
+      "release_url": "https://github.com/xXMario23Xx/NeoMystic/releases/latest",
+      "apk_url": "https://github.com/xXMario23Xx/NeoMystic/releases/latest/download/NeoMystic.apk"
+    }
   ]
 }
